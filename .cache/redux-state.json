@@ -1092,12 +1092,12 @@
       },
       "pathPrefix": "/gatsby-starter-cv",
       "polyfill": true,
-      "buildTime": "2019-01-29T18:17:27.899Z",
+      "buildTime": "2019-01-29T18:32:29.817Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "4edac6b2593973349620dfe88acd9764",
+        "contentDigest": "03e5da81a4b8e075b775bf57e06ce2dc",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
